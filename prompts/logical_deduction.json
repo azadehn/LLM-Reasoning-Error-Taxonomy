@@ -2,7 +2,10 @@
 
 {
   "task": "logical_deduction",
+  
   "description": "Prompts targeting deductive reasoning, consistency, and rule-based inference.",
+
+  
   "examples": [
     {
       "id": "logic_001",
