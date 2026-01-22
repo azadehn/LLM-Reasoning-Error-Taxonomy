@@ -1,16 +1,23 @@
+
+
 {
   "task": "logical_deduction",
   "description": "Prompts targeting deductive reasoning, consistency, and rule-based inference.",
   "examples": [
     {
       "id": "logic_001",
+      
       "question": "All birds can fly. Penguins are birds. Can penguins fly?",
+      
       "expected_answer": "No"
     },
     {
       "id": "logic_002",
+      
       "question": "If statement A implies B, and B is false, what can we conclude about A?",
+      
       "expected_answer": "A is false"
+      
     }
   ]
 }
